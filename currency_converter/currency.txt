@@ -1,0 +1,30 @@
+United States Dollar - 1.00
+Euro - 0.85
+British Pound - 0.73
+Japanese Yen - 110.00
+Swiss Franc - 0.92
+Canadian Dollar - 1.25
+Australian Dollar - 1.35
+Chinese Yuan - 6.40
+Indian Rupee - 75.00
+Brazilian Real - 5.50
+Russian Ruble - 75.00
+South African Rand - 15.00
+Mexican Peso - 20.00
+Singapore Dollar - 1.35
+Hong Kong Dollar - 7.75
+New Zealand Dollar - 1.45
+Swedish Krona - 8.50
+Norwegian Krone - 8.75
+South Korean Won - 1,150.00
+Turkish Lira - 8.00
+Argentine Peso - 100.00
+Indonesian Rupiah - 14,000.00
+Malaysian Ringgit - 4.10
+Thai Baht - 32.00
+Swiss Franc - 0.92
+Colombian Peso - 4,000.00
+Saudi Riyal - 3.75
+UAE Dirham - 3.67
+Israeli New Shekel - 3.20
+Egyptian Pound - 15.60

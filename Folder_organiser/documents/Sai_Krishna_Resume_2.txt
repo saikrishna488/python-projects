@@ -1,0 +1,67 @@
+Sai Krishna
+Student
+
+Hyderabad, India 500039
+8106629402
+oltvez@gmail.com
+
+Professional Summary
+
+Hi, I'm Saikrishna - a computer science engineering student with a passion for building projects and exploring new technologies. My diverse skill set includes proficiency in multiple programming languages, such as C, C++, Java, HTML, CSS, PHP, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Bash, and Python. I love contributing to open-source projects and collaborating with other developers to build impactful applications. My interests include full-stack development, web development, and data-driven applications. I'm always on the lookout for new tools and technologies to add to my toolkit, and I enjoy participating in hackathons and coding challenges to keep my skills sharp.
+
+Skills
+
+Proficient in developing dynamic and interactive user interfaces using React library.
+
+HTML: Strong knowledge of HTML5, including semantic markup and accessibility best practices.
+
+CSS: Proficient in CSS3, including responsive design, CSS frameworks like Bootstrap, and styling web
+
+Pages.
+
+JavaScript: Solid understanding of core JavaScript concepts and ES6+ syntax, with experience in writing
+
+Efficient and clean code.
+
+Redux: Experienced in state management using Redux to maintain application state and facilitate seamless
+
+Data flow.
+
+Node.js: Knowledgeable in server-side JavaScript using Node.js for building scalable and efficient web
+
+Applications.
+
+Express: Proficient in Express.js framework to develop RESTful APIs and handle routing and middleware
+
+Functionalities.
+
+Git: Experienced in version control using Git, including repository management, branching, and merging.
+
+RESTful APIs: Familiarity with designing and consuming RESTful APIs for integrating front-end applications
+
+With back-end services.
+
+Nextjs: Next.js is a React framework for building server-rendered applications with automatic code splitting
+
+And routing.
+
+PHP: PHP is a server-side scripting language commonly used for web development, known for its ease of
+
+Use and wide range of functionality.
+
+Education
+
+January 2020 - April 2024
+VIGNANA BHARATHI INSTITUTE OF TECHNOLOGY HYDERABAD
+Bachelor's of Technology Information Technology
+
+January 2018 - April 2020
+NARAYANA JUNIOR COLLEGE HYDERABAD
+Intermediate
+
+Projects
+
+CHAT WITH RANDOMS, CREATE ROOMS, JOIN ROOMS Developed a web-based chat application called "wChat" using React, Node.js, Express, and Socket.IO. Implemented real-time communication functionality using Socket.IO to enable users to chat with random people. Utilized React to create a responsive and intuitive user interface for an engaging chatting experience. Integrated Node.js and Express to handle server-side logic and API endpoints for seamless data transmission. Ensured scalability and performance by utilizing Socket.IO's event-driven architecture for efficient and reliable real-time communication. LIVE DEMO - https://www.saikrishna488.social
+NEWS APP – WEB APP Developed a News APP using React and news api to provide real-time news. Integrated with a news API to fetch real-time news data. Categorized news articles into different categories, including sports, technology, and entertainment. Displayed news articles with titles, descriptions, and images. Implemented a user-friendly interface with smooth navigation and responsive design. LIVE DEMO - https://newsapp-amber.vercel.app
+DICTIONARY API – API Implemented a RESTful API using Node.js and Express.js to handle HTTP requests. Designed API endpoints to receive GET requests and return JSON responses. Validated incoming requests to ensure they contain valid word inputs. Utilized a dictionary database or an external API to fetch word meanings. Returned the requested word's meaning as a JSON response, including additional LIVE DEMO - https://dictionary-api-chi.vercel.app/dict/hello
+JWT BASED AUTHENTICATION APP – WEB APP Implemented user registration and login functionality with JWT-based authentication. Utilized MongoDB as the database to securely store user information, including hashed passwords. Validated user credentials during the login process and generated JWTs upon successful authentication. Leveraged JWTs to authenticate and authorize users for accessing protected routes. Implemented password reset functionality using email verification and temporary tokens. Secured sensitive routes and ensured the protection of user data. LIVE DEMO - https://mern-jwt-authentication-frontned.vercel.app/
